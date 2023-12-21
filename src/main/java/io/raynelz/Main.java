@@ -8,11 +8,6 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.Properties;
 
-/**
- * Hello world!
- *
- */
-
 class ApplicationProperties {
 
     private static final String FILE_NAME = "/application.properties";
