@@ -20,7 +20,7 @@
             <version>42.3.8</version>
         </dependency>
         <dependency>
-            <groupId>io.raynelz</groupId>
+            <groupId>org.example</groupId>
             <artifactId>Lab6</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
