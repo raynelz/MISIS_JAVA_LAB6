@@ -1,4 +1,4 @@
-import io.raynelz.DatabaseService;
+import org.example.DatabaseService;
 import org.testng.annotations.Test;
 
 public class DatabaseServiceTest {

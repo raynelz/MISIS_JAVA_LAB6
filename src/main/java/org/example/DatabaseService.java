@@ -1,4 +1,4 @@
-package io.raynelz;
+package org.example;
 
 import org.jetbrains.annotations.NotNull;
 
